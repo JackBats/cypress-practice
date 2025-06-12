@@ -3,6 +3,7 @@ import HomePage from '../../pom/pages/HomePage';
 import GaragePage from '../../pom/pages/GaragePage';
 import AddCarForm from '../../pom/forms/AddCarForm';
 
+
 describe('Add Cars Tests', () => {
 	beforeEach(() => {
 		GaragePage.visitPageAsLoggedInUser();
