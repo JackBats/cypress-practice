@@ -1,0 +1,49 @@
+{
+  "1": {
+    "brand": "Audi",
+    "models": {
+      "1": "TT",
+      "2": "R8",
+      "3": "Q7",
+      "4": "A6",
+      "5": "A8"
+    }
+  },
+  "2": {
+    "brand": "BMW",
+    "models": {
+      "1": "3",
+      "2": "5",
+      "3": "X5",
+      "4": "X6",
+      "5": "Z3"
+    }
+  },
+  "3": {
+    "brand": "Ford",
+    "models": {
+      "1": "Fiesta",
+      "2": "Focus",
+      "3": "Fusion",
+      "4": "Mondeo"
+    }
+  },
+  "4": {
+    "brand": "Porsche",
+    "models": {
+      "1": "911",
+      "2": "Cayenne",
+      "3": "Panamera"
+    }
+  },
+  "5": {
+    "brand": "Fiat",
+    "models": {
+        "1": "Palio",
+        "2": "Ducato",
+        "3": "Panda", 
+        "4": "Punto",
+        "5": "Scudo"
+    }
+  }
+}
